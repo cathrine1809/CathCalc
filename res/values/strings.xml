@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">CathCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="FirstNumberLabel">First Number</string>
+    <string name="SecondNumberLabel">Second Number</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="divideButton">/</string>
+    <string name="multipleButton">*</string>
+    <string name="resultText">Result :</string>
+
+</resources>
