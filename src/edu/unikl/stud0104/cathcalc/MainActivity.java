@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 
 		buttonPlus.setOnClickListener(new OnClickListener() {
 
+//shahir test4
 			public void onClick(View v) {
 
 				String num1str = input1.getText().toString();
