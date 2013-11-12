@@ -11,7 +11,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-
 // shahir testing
     
 	@Override
