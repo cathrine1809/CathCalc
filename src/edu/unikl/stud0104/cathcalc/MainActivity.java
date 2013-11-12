@@ -12,6 +12,8 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
+// shahir testing
+    
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
