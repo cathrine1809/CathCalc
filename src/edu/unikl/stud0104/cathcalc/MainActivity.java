@@ -27,7 +27,6 @@ public class MainActivity extends Activity {
 		Button buttonDivide = (Button) findViewById(R.id.button3);
 
 		buttonPlus.setOnClickListener(new OnClickListener() {
-
 //shahir test4
 			public void onClick(View v) {
 
